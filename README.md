@@ -8,7 +8,7 @@
 </p>
 <div align="center">
   <p align="center">
-<img src="https://i.imgur.com/6CqMv7z.jpg" alt="GIF" width="300" height="250"/>
+<img src="https://www.linkpicture.com/q/68747470733a2f2f7777772e6c696e6b706963747572652e636f6d2f712f494d472d32303231303831392d5741313138392e6a7067-picsay.jpeg" alt="GIF" width="300" height="250"/>
 </p>
   <p align="center">
 <a href="https://github.com/Devanandhser/Devanandh_ser"><img title="Author" src="https://img.shields.io/badge/Author-Devanandh-dkser/DEVANANDH?color=blue&style=for-the-badge&logo=whatsapp"></a>
