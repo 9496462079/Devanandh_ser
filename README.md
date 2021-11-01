@@ -50,7 +50,7 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/Devanandhser/Devanandh_ser
+$ git clone https://github.com/BUGGEN_BOT/BUGGEN_ser
 $ cd Amalser_v2
 $ npm i
 $ node julie.js
