@@ -3,7 +3,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+DEVANANDHSER+WA+Bot+repo;Created+by+Devanandh;This+is+a+Bgm+stickerbot;With+more+features)](https://git.io/typing-svg)
 <div align="center">
 
-## Its_me_DEVANANDH
+## Its_me_BUGGEN_BOT
  </a>
 </p>
 <div align="center">
@@ -11,11 +11,11 @@
 <img src="https://www.linkpicture.com/q/68747470733a2f2f7777772e6c696e6b706963747572652e636f6d2f712f494d472d32303231303831392d5741313138392e6a7067-picsay.jpeg" alt="GIF" width="300" height="250"/>
 </p>
   <p align="center">
-<a href="https://github.com/Devanandhser/Devanandh_ser"><img title="Author" src="https://img.shields.io/badge/Author-Devanandh-dkser/DEVANANDH?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/BUGGEN/KNR_ser"><img title="Author" src="https://img.shields.io/badge/Author-Devanandh-dkser/DEVANANDH?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Devanandhser/Devanandh_ser">Devanandh</a> to make it public
+Project created by <a href="https://github.com/BUGGEN_BOT/buggen_ser">BUGGEN</a> to make it public
     <br>
        | © |
         Reserved |
@@ -92,7 +92,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
 
-## Its_me_DEVANANDH
+## Its_me_BUGGEN_BOT
    <div align="center">
 
   <img src=https://i.imgur.com/6CqMv7z.jpg>
